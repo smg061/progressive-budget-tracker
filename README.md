@@ -21,11 +21,11 @@ This application uses mongoDB, mongoose, and express to create a workout tracker
 ## Installation Instructions <a name="installation"></a>
 To use with a local database, clone the git repository and install the dependencies using ```npm install```. Then create and seed the database with  db/schema.sql and seeds/index.js. Finally run server.js to start listening for requests.
 
-Otherwise, the app is deployed live in heroku, and can be found [here](https://smg061-budget-tracker.herokuapp.com/)
+Otherwise, the app is deployed live in heroku, and can be found [here](https://smg061-budget-tracker.herokuapp.com/). The app can also be installed locally as a Progressive Web App (PWA).
 
 ## Usage <a name="usage"></a>
 
-Users can choose to add expenses or deposits to their budget. The users expenses and deposits will saved on displayed on the main page's plot area
+Users can choose to add expenses or deposits to their budget. The users expenses and deposits will saved on displayed on the plot area
 ![img](https://user-images.githubusercontent.com/47426171/125994754-f6773da8-7d9c-4e4c-9b51-d984f6ef7123.png)
 
 
