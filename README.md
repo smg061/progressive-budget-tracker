@@ -40,9 +40,9 @@ If the user is offline, expenses will be stored in IndexedDB temporarily until i
 
 
 ## Technologies used <a name="technologies"></a>
-  ** Node.js
-  ** Express.js
-  ** MongoDB
+  * Node.js
+  * Express.js
+  * MongoDB
   
   
 
