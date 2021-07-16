@@ -1,6 +1,6 @@
-# progressive-budget-tracker
+# PWA Budget Tracker
 
-![image](https://user-images.githubusercontent.com/47426171/125017602-1a10d300-e039-11eb-975b-9e0557318ef7.png)
+![image](https://user-images.githubusercontent.com/47426171/125886715-63d8a911-248c-452c-874e-32b100364aba.png)
 
 
 
