@@ -4,7 +4,7 @@
 
 
 
-This application uses mongoDB, mongoose, and express to create a workout tracker app that creates dynamic reports of the user's workouts.
+This application uses mongoDB, mongoose, and express to create a workout tracker app that creates dynamic reports of the user's expenses
 
 ## Table of Contents
 
